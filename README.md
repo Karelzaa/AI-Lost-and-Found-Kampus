@@ -1,2 +1,2 @@
-# Kelompok-5---AI-Lost-and-Found-Kampus-
-Project AI Computer Platform
+# AI-Lost-and-Found-Kampus
+Kelompok 5 Project AI Computer Platform
